@@ -69,21 +69,29 @@ Program
 
 Output Waveform
 
+<img width="1137" height="1020" alt="Screenshot 2025-10-06 215544" src="https://github.com/user-attachments/assets/f006e4ee-90dd-44fd-ac8a-3172da684cde" />
 
 
 Tabulation
 
+<img width="824" height="615" alt="Screenshot 2025-11-16 223753" src="https://github.com/user-attachments/assets/9714dd40-dd9e-4c02-93d0-cd29c01e4a06" />
 
 
 Calculation
 
+Modulation Index Practical	= 4.4
 
+Modulation Index Theoretical	
+```
+▲f  = Fmax – Fc
+    = 7142.85 – 5000
+    = 2142.85
+    
+ß = ▲f/Fm
+   = 2142.85 / 510
+   = 4.2
+   ```
 
-Frequency Deviation Practical = 
-
-Modulation Index Practical	= 
-
-Modulation Index Theoretical	=
 
 
 
